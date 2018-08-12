@@ -1,0 +1,10 @@
+C:\Users\a0103\source\repos\Inition\Inition\bin\Release\Inition.exe.config
+C:\Users\a0103\source\repos\Inition\Inition\bin\Release\Inition.exe
+C:\Users\a0103\source\repos\Inition\Inition\bin\Release\Inition.pdb
+C:\Users\a0103\source\repos\Inition\Inition\obj\Release\Inition.Form1.resources
+C:\Users\a0103\source\repos\Inition\Inition\obj\Release\Inition.Properties.Resources.resources
+C:\Users\a0103\source\repos\Inition\Inition\obj\Release\Inition.csproj.GenerateResource.cache
+C:\Users\a0103\source\repos\Inition\Inition\obj\Release\Inition.csproj.CoreCompileInputs.cache
+C:\Users\a0103\source\repos\Inition\Inition\obj\Release\Inition.exe
+C:\Users\a0103\source\repos\Inition\Inition\obj\Release\Inition.pdb
+C:\Users\a0103\source\repos\Inition\Inition\obj\Release\Inition.csprojAssemblyReference.cache
